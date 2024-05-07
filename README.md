@@ -1,18 +1,20 @@
+### Hi there 👋
+
+
 ### Languages and tools
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://www.svgrepo.com/show/353874/hibernate.svg" title="Hibernate" alt="Hibernate" width="40" height="40"/>&nbsp;
-  <img src="https://www.svgrepo.com/show/452192/docker.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://www.svgrepo.com/show/354272/redis.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
-  <img src="https://www.svgrepo.com/show/354250/rabbitmq-icon.svg" title="RabbitMQ" alt="RabbitMQ" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://www.svgrepo.com/show/373829/maven.svg" title="Maven"  alt="Maven" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java&logoColor=#FC4C02)
+![Spring](https://img.shields.io/badge/-Spring-090909?style=for-the-badge&logo=Spring&logoColor=#6DB33F)
+![Hibernate](https://img.shields.io/badge/-Hibernate-090909?style=for-the-badge&logo=Hibernate&logoColor=##59666C)
+![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker&logoColor=#2496ED)
+![Redis](https://img.shields.io/badge/-Redis-090909?style=for-the-badge&logo=Redis&logoColor=#DC382D)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-090909?style=for-the-badge&logo=RabbitMQ&logoColor=#FF6600)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL&logoColor=#4169E1)
+![Maven](https://img.shields.io/badge/-apachemaven-090909?style=for-the-badge&logo=apachemaven&logoColor=#C71A36)
+![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=#F05032)
 
 ### Technologies I'm Looking Forward to Learning Soon
-  <img src="https://www.svgrepo.com/show/353951/kafka-icon.svg" title="Apache Kafka" alt="Apache Kafka" width="40" height="40"/>&nbsp;
-  <img src="https://www.svgrepo.com/show/448233/kubernetes.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
-
+![Apache Kafka](https://img.shields.io/badge/-apachekafka-090909?style=for-the-badge&logo=apachekafka&logoColor=#326CE5)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-090909?style=for-the-badge&logo=Kubernetes&logoColor=#326CE5)
 
 ### My socials
   <a href="https://t.me/ryze177">
