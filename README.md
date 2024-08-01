@@ -11,10 +11,13 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL&logoColor=#4169E1)
 ![Maven](https://img.shields.io/badge/-apachemaven-090909?style=for-the-badge&logo=apachemaven&logoColor=#C71A36)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=#F05032)
+![Apache Kafka](https://img.shields.io/badge/-apachekafka-090909?style=for-the-badge&logo=apachekafka&logoColor=#326CE5)
 
 ### Technologies I'm Looking Forward to Learning Soon
-![Apache Kafka](https://img.shields.io/badge/-apachekafka-090909?style=for-the-badge&logo=apachekafka&logoColor=#326CE5)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-090909?style=for-the-badge&logo=Kubernetes&logoColor=#326CE5)
+![Prometheus](https://img.shields.io/badge/-Prometheus-090909?style=for-the-badge&logo=Prometheus&logoColor=#E6522C)
+![Grafana](https://img.shields.io/badge/-Grafana-090909?style=for-the-badge&logo=Grafana&logoColor=#F46800)
+![Elastic](https://img.shields.io/badge/-ELK-090909?style=for-the-badge&logo=elastic&logoColor=#005571)
 
 ### My socials
   <a href="https://t.me/ryze177">
