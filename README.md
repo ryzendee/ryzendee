@@ -12,6 +12,7 @@
 ![Maven](https://img.shields.io/badge/-apachemaven-090909?style=for-the-badge&logo=apachemaven&logoColor=#C71A36)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=#F05032)
 ![Apache Kafka](https://img.shields.io/badge/-apachekafka-090909?style=for-the-badge&logo=apachekafka&logoColor=#326CE5)
+![GitLab CI/CD](https://img.shields.io/badge/-GitLab%20CI%2FCD-090909?style=for-the-badge&logo=gitlabci&logoColor=white)
 
 ### Technologies I'm Looking Forward to Learning Soon
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-090909?style=for-the-badge&logo=Kubernetes&logoColor=#326CE5)
@@ -22,14 +23,6 @@
 ### My socials
   <a href="https://t.me/ryze177">
     <img src="https://www.svgrepo.com/show/354443/telegram.svg" alt="Telegram Badge" width="40" height="40"/>
-  </a>
-  <a href="https://vk.com/ryze17">
-    <img src="https://www.svgrepo.com/show/349554/vk.svg" alt="Vk Badge" width="40" height="40"/>
-  </a>
-
-### Leetcode
-  <a href="https://leetcode.com/ryazantsev2003/">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fryazantsev2003&logo=leetcode&logoColor=yellow" alt="Leetcode Badge"/>
   </a>
 
 ### My Stats 
