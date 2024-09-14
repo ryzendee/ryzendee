@@ -7,7 +7,6 @@
 ![Hibernate](https://img.shields.io/badge/-Hibernate-090909?style=for-the-badge&logo=Hibernate&logoColor=##59666C)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker&logoColor=#2496ED)
 ![Redis](https://img.shields.io/badge/-Redis-090909?style=for-the-badge&logo=Redis&logoColor=#DC382D)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-090909?style=for-the-badge&logo=RabbitMQ&logoColor=#FF6600)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL&logoColor=#4169E1)
 ![Maven](https://img.shields.io/badge/-apachemaven-090909?style=for-the-badge&logo=apachemaven&logoColor=#C71A36)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=#F05032)
@@ -24,13 +23,7 @@
   <a href="https://t.me/ryze177">
     <img src="https://www.svgrepo.com/show/354443/telegram.svg" alt="Telegram Badge" width="40" height="40"/>
   </a>
+  <a href="https://gitlab.com/ryzendee17" style="margin-left: 15px;">
+  <img src="https://www.svgrepo.com/show/448226/gitlab.svg" alt="GitLab Badge" width="40" height="40"/>
+</a>
 
-### My Stats 
-<div align="center">
-  <a href="https://git.io/streak-stats" style="margin-left: 10px;">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=ryzendee" alt="GitHub Streak" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" style="margin-left: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryzendee&layout=compact" alt="Top Languages" />
-  </a>
-</div>
